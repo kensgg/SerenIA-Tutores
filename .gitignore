@@ -1,5 +1,6 @@
 # Archivos sensibles
 app/config/firebase_config.json
+.env
 
 # Compilados de Python
 *.pyc
