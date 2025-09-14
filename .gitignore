@@ -1,0 +1,9 @@
+# Archivos sensibles
+app/config/firebase_config.json
+
+# Compilados de Python
+*.pyc
+__pycache__/
+
+# Otros directorios que no suben
+reportes/
